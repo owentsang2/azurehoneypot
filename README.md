@@ -15,14 +15,15 @@ Architecture
 
 The experiment consisted of:
 
-Microsoft Azure virtual machine
-Internet-facing network interface
-Firewall configuration allowing the monitored service
-Honeypot/logging system
-Event collection
-IP geolocation
-Python-based data analysis
-Geographic visualisation
+- Microsoft Azure virtual machine
+- Internet-facing network interface
+- Firewall configuration allowing the monitored service
+- Honeypot/logging system
+- Event collection
+- IP geolocation
+- Python-based data analysis
+- Geographic visualisation
+
 Internet
     │
     ▼
@@ -48,6 +49,7 @@ Python Analysis
     ├── Country frequency
     ├── City frequency
     └── Geographic map
+    
 Methodology
 
 Created a resource group on Microsoft Azure.
