@@ -50,11 +50,21 @@ Python Analysis
     └── Geographic map
 Methodology
 
-The virtual machine was configured with a deliberately exposed service to attract unauthorised connection attempts.
+Created a resource group on Microsoft Azure.
 
-Authentication events were collected over the observation period. The source IP address associated with each event was extracted and used for geographical analysis.
+Created a virtual network within the lab then a virtual machine that is able to use the netowkr.
 
-The resulting data was then processed to identify the frequency of observed attempts by country and city.
+Opened both the firewall on the network security group and also within the virtual machine by connecting to it via remote desktop.
+
+Created a log analytics workspace to log all the security events.
+
+Used Microsft Sentinel (SIEM) and installed Window Security Events to be able to capture the events.
+
+Let the virtual network run for over 24 hours and captured over 5000 security events.
+
+Using KQL query to sort process and clean the data.
+
+Created a workbook in Microsft Defender to display the data in a geo location heatmap for analysis
 
 Results
 
