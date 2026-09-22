@@ -88,11 +88,11 @@ The location with the highest number of observed events was:
 
 The country with the highest number of observed events was:
 
-[INSERT RESULT]
+<img width="429" height="196" alt="image" src="https://github.com/user-attachments/assets/3e1b0549-c088-4097-8532-ee65ef4ceef5" />
 
 The total number of recorded events was:
 
-[INSERT RESULT]
+<img width="667" height="303" alt="image" src="https://github.com/user-attachments/assets/c0bd265d-18fb-4f52-a524-d9b64a7762bf" />
 
 Important Limitations
 
