@@ -108,34 +108,33 @@ The honeypot was intentionally exposed for the purposes of the experiment. This 
 
 The experiment therefore required consideration of:
 
-Network isolation
-Firewall configuration
-Credentials
-System monitoring
-Data collection
-Secure removal of the test environment
-Skills Demonstrated
-Microsoft Azure
-Cloud infrastructure
-Network security
-Honeypot deployment
-Log analysis
-Python
-Data processing
-IP geolocation
-Data visualisation
-Security monitoring
-Cybersecurity research
-Future Improvements
+- Network isolation
+- Firewall configuration
+- Credentials
+- System monitoring
+- Data collection
+- Secure removal of the test environment
+- Skills Demonstrated
+- -Microsoft Azure
+- Cloud infrastructure
+- Network security
+- Honeypot deployment
+- Log analysis
+- Data processing
+- IP geolocation
+- Data visualisation
+- Security monitoring
+- Cybersecurity research
+- Future Improvements
 
 Possible extensions to the project include:
 
-Analysing attempted usernames
-Analysing password patterns without retaining sensitive credentials
-Measuring attacks over time
-Identifying repeated source IP addresses
-Comparing attack rates between exposed services
-Adding automated dashboards
-Integrating SIEM tools such as Microsoft Sentinel
-Creating alerts for unusual activity
-Comparing results across different time periods
+- Analysing attempted usernames
+- Analysing password patterns without retaining sensitive credentials
+- Measuring attacks over time
+- Identifying repeated source IP addresses
+- Comparing attack rates between exposed services
+- Adding automated dashboards
+- Integrating SIEM tools such as Microsoft Sentinel
+- Creating alerts for unusual activity
+- Comparing results across different time periods
